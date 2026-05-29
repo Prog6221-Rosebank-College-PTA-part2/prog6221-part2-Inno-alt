@@ -19,6 +19,11 @@ A WPF desktop application that educates users about cybersecurity best practices
 - Windows OS (for WPF and Speech support)
 
 ## Installation
+CybersecurityChatbotWPF/
+├── MainWindow.xaml          # GUI layout
+├── MainWindow.xaml.cs       # UI event handling
+├── Chatbot.cs               # Core bot logic
+└── CybersecurityChatbotWPF.csproj
 
 1. Clone the repository
 ```bash
